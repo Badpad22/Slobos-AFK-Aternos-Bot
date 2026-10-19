@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1,
       "messages": [
         "/register badpad122 badpad122",
         "Subscribe to Slobos!",
